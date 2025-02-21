@@ -7,6 +7,7 @@ class Program
     static void Main(string[] args)
     {
         string password = "SuperSecretPassword123!";
+        string password2 = "SuperSecretPassword123!";
         Console.WriteLine("Hello, World!");
     }
 }
