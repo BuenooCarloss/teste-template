@@ -8,6 +8,8 @@ class Program
     {
         string password = "SuperSecretPassword123!";
         string password2 = "SuperSecretPassword123!";
+        const password = "senhaSuperSecreta123";
+
         Console.WriteLine("Hello, World!");
     }
 }
